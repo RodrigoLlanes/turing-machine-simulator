@@ -1,1 +1,3 @@
-# python-turing-machine-simulator
+# Turing Machine Simulator
+
+[Python implementation](python)
